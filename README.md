@@ -4,16 +4,16 @@
   <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="200" alt="Laravel Logo">
 </p>
 
-## ** About This Project**
+## **About This Project**
 This is a simple **Inventory Management Web Application** built with **Laravel**.  
 It includes core CRUD functionality and user authentication (Login & Logout).  
 
-### 🔹 Main Features
+### Main Features
 - User authentication (Login / Logout)
 - CRUD operations for Posts (representing inventory items)
 ---
 
-## **✨ Features Overview**
+## **Features Overview**
 
 | Feature | Description |
 |----------|--------------|
@@ -22,7 +22,7 @@ It includes core CRUD functionality and user authentication (Login & Logout).
 
 ---
 
-## **⚙️ Installation Steps**
+## **Installation Steps**
 
 1. **Clone the repository**
    ```bash
